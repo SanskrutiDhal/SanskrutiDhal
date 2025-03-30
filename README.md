@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**SanskrutiDhal/SanskrutiDhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highly motivated third-year Computer Science student with a strong focus on backend development and integrating Large Language Models (LLMs) into practical applications. Proficient in Python, SQL, and API integration, with experience in building scalable backend solutions, function/tool calling, and data analysis. Demonstrated expertise in numerical reasoning, document parsing, and freeform user input handling. Fluent in English, with a solid foundation in software engineering, machine learning models.
 
 Here are some ideas to get you started:
 
